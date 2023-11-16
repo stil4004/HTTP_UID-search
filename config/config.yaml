@@ -1,0 +1,12 @@
+db_host: localhost
+db_port: 5432
+db_username: postgres
+db_password: ***********
+db_name: WB
+
+nats_cluster: test-cluster
+nats_client_id: test-client
+nats_url: nats://localhost:4222
+
+server_port: 8081
+server_url: localhost
